@@ -1,1 +1,3 @@
 # CodeClause_Calculator
+This GitHub repository contains a simple calculator built using the Python programming language and the tkinter graphical user interface module. With a user-friendly interface and basic mathematical operations, this calculator is perfect for anyone looking for a quick and efficient way to perform simple calculations on their computer. The code is well-documented and easy to understand, making it a great starting point for those learning to code in Python or work with the tkinter module.
+![image](https://user-images.githubusercontent.com/104504630/235354801-1aba9254-7cde-487f-8547-c3e5fccf2330.png)
